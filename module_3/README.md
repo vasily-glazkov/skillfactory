@@ -3,7 +3,7 @@
 ### skillfactory_rds  
 ![https://img.shields.io/badge/Python-3.7.4-blue](https://img.shields.io/badge/Python-3.7.4-blue)
 
-<a name="0">##Оглавление</a>  
+## <a name="0">Оглавление</a>  
 [1. Описание модуля](#1)  
 [2. Какой кейс решаем?](#2)  
 [3. Краткая информация о данных](#3)  
